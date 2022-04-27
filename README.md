@@ -18,6 +18,8 @@
 ![teams](https://user-images.githubusercontent.com/73071973/165582463-1fb98e7d-977a-4970-975c-b24463de8bfd.svg)
 ![matlab](https://user-images.githubusercontent.com/73071973/165582509-483a1863-7003-4ce0-8cae-aa717f133107.svg)
 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmdpereira&layout=compact&theme=github_dark" />
+
 <h3>📈 Coming soon:</h3>
 
 ![vue](https://user-images.githubusercontent.com/73071973/165584003-4f760434-0503-450a-9377-4b784d5770b1.svg)
@@ -26,8 +28,9 @@
 ![next](https://user-images.githubusercontent.com/73071973/165584151-b24ef4cf-d4d8-4717-beff-5c5ee1728af8.svg)
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=lucasmdpereira&show_icons=true&theme=github_dark" />
-<img align="rigth" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmdpereira&layout=compact&theme=github_dark" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=lucasmdpereira&show_icons=true&theme=github_dark" />
+
+
 
 
 
