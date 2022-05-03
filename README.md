@@ -1,6 +1,6 @@
 <h3> 👋 Hi there!</h3>
 
-<p >I'm a M.Sc. in electrical engineering 💡 switching carrer form hardware ⚙️ to software development 👨‍💻.<p>
+<p >I'm a M.Sc. in electrical engineering 💡 switching career from hardware ⚙️ to software development 👨‍💻.<p>
   
 <h3>🔥 Already in use:</h3>
 
