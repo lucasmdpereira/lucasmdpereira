@@ -2,7 +2,7 @@
 
 <p >I'm a M.Sc. in electrical engineering 💡 switching career from hardware ⚙️ to software development 👨‍💻.<p>
   
-<h3>🔥 Already in use:</h3>
+<h3>🔥 These are the technologies and tools that I'm currently using:</h3>
 
 ![js](https://user-images.githubusercontent.com/73071973/165581426-90f1daff-9992-4788-84ac-88030ad32026.svg)
 ![css](https://user-images.githubusercontent.com/73071973/165581723-27ba322d-d8d5-43d2-9f57-7bff5b5c085a.svg)
@@ -20,10 +20,16 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmdpereira&layout=compact&theme=github_dark" />
 
-<h3>📈 Coming soon:</h3>
+<h3>📈 The following are the technologies and tools I'm currently studying :</h3>
+
+![react](https://user-images.githubusercontent.com/73071973/166676074-7d85cc43-0eff-4cd7-a07d-848d8520aa8f.svg)
+![typescript](https://user-images.githubusercontent.com/73071973/166676102-482b185f-ae9f-4235-88b9-34cbdf4c19d4.svg)
+![postgress](https://user-images.githubusercontent.com/73071973/166676121-3204c350-620e-4c6c-969a-93e2d87f1a38.svg)
+
+<h3>📆 And finally these are the technologies and tools I'm eager to learn:</h3>
 
 ![vue](https://user-images.githubusercontent.com/73071973/165584003-4f760434-0503-450a-9377-4b784d5770b1.svg)
-![java](https://user-images.githubusercontent.com/73071973/165584131-044075ed-f2da-46af-a0ad-d150936e062c.svg)
+![c#](https://user-images.githubusercontent.com/73071973/166676717-e4302b07-6a39-4a99-a6ad-570a6993e61e.svg)
 ![mongo](https://user-images.githubusercontent.com/73071973/165584139-7431a3e5-2b58-4656-ae6a-61603f730004.svg)
 ![next](https://user-images.githubusercontent.com/73071973/165584151-b24ef4cf-d4d8-4717-beff-5c5ee1728af8.svg)
 
