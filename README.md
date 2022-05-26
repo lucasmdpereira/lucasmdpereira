@@ -1,6 +1,7 @@
 <h3> 👋 Hi there!</h3>
 
-<p >I'm a M.Sc. in electrical engineering 💡 switching career from hardware ⚙️ to software development 👨‍💻.<p>
+<p>I'm a M.Sc. in electrical engineering 💡 switching career from hardware ⚙️ to software development 👨‍💻.<p>
+<p>Protagonist personality type (ENFJ-A).<p>
   
 <h3>🔥 These are the technologies and tools that I'm currently using:</h3>
 
