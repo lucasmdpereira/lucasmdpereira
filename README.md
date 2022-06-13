@@ -14,10 +14,7 @@
 ![bootstrap](https://user-images.githubusercontent.com/73071973/165582005-3ac189b8-d31d-4f0a-b36b-0d263af68f34.svg)
 ![aws](https://user-images.githubusercontent.com/73071973/165582236-7b64aa31-a279-4010-ab27-4ec53d910757.svg)
 ![figma](https://user-images.githubusercontent.com/73071973/165582320-043a9c0e-7a85-4845-ae62-c7075de6dbd2.svg)
-![vscode](https://user-images.githubusercontent.com/73071973/165582344-32bcb032-31b5-4834-b14f-7d8c26636f0d.svg)
 ![git](https://user-images.githubusercontent.com/73071973/165582399-fd7b8634-a278-4c7c-b465-95cc604e8bcb.svg)
-![teams](https://user-images.githubusercontent.com/73071973/165582463-1fb98e7d-977a-4970-975c-b24463de8bfd.svg)
-![matlab](https://user-images.githubusercontent.com/73071973/165582509-483a1863-7003-4ce0-8cae-aa717f133107.svg)
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmdpereira&layout=compact&theme=github_dark" />
 
