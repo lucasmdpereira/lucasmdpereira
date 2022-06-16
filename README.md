@@ -10,11 +10,10 @@
 ![html](https://user-images.githubusercontent.com/73071973/165581793-6ba9eab5-c13a-4c3b-9502-a1cecf0698fe.svg)
 ![node](https://user-images.githubusercontent.com/73071973/165581845-247a28a2-4e64-470f-8835-c1d3d39a0a1c.svg)
 ![sqlite](https://user-images.githubusercontent.com/73071973/165581899-0b06c1f5-0ca5-4055-8438-d2b56c60609e.svg)
-![linux](https://user-images.githubusercontent.com/73071973/165581960-d4f66d19-edbc-48e1-bc7d-5b33ea371a89.svg)
 ![bootstrap](https://user-images.githubusercontent.com/73071973/165582005-3ac189b8-d31d-4f0a-b36b-0d263af68f34.svg)
+![linux](https://user-images.githubusercontent.com/73071973/165581960-d4f66d19-edbc-48e1-bc7d-5b33ea371a89.svg)
 ![aws](https://user-images.githubusercontent.com/73071973/165582236-7b64aa31-a279-4010-ab27-4ec53d910757.svg)
 ![figma](https://user-images.githubusercontent.com/73071973/165582320-043a9c0e-7a85-4845-ae62-c7075de6dbd2.svg)
-![git](https://user-images.githubusercontent.com/73071973/165582399-fd7b8634-a278-4c7c-b465-95cc604e8bcb.svg)
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmdpereira&layout=compact&theme=github_dark" />
 
