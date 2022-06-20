@@ -20,9 +20,9 @@
 <h3>📈 The following are the technologies and tools I'm currently studying :</h3>
 
 ![python](https://user-images.githubusercontent.com/73071973/173397419-2d32d5e6-6fbc-4102-907d-2adacb32aac6.svg)
-![typescript](https://user-images.githubusercontent.com/73071973/166676102-482b185f-ae9f-4235-88b9-34cbdf4c19d4.svg)
-![react](https://user-images.githubusercontent.com/73071973/166676074-7d85cc43-0eff-4cd7-a07d-848d8520aa8f.svg)
 ![postgress](https://user-images.githubusercontent.com/73071973/166676121-3204c350-620e-4c6c-969a-93e2d87f1a38.svg)
+![react](https://user-images.githubusercontent.com/73071973/166676074-7d85cc43-0eff-4cd7-a07d-848d8520aa8f.svg)
+![typescript](https://user-images.githubusercontent.com/73071973/166676102-482b185f-ae9f-4235-88b9-34cbdf4c19d4.svg)
 
 <h3>📆 And finally these are the technologies and tools I'm eager to learn:</h3>
 
