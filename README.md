@@ -19,6 +19,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmdpereira&layout=compact&theme=github_dark" />
 
 <h3>📈 The following are the technologies and tools I'm currently studying :</h3>
+
 ![python](https://user-images.githubusercontent.com/73071973/173397419-2d32d5e6-6fbc-4102-907d-2adacb32aac6.svg)
 ![postgress](https://user-images.githubusercontent.com/73071973/166676121-3204c350-620e-4c6c-969a-93e2d87f1a38.svg)
 ![react](https://user-images.githubusercontent.com/73071973/166676074-7d85cc43-0eff-4cd7-a07d-848d8520aa8f.svg)
