@@ -24,7 +24,7 @@
 
 <h3>📈 The following are the technologies and tools I'm currently studying :</h3>
 
-![python](https://user-images.githubusercontent.com/73071973/173397419-2d32d5e6-6fbc-4102-907d-2adacb32aac6.svg)
+![c#](https://user-images.githubusercontent.com/73071973/166676717-e4302b07-6a39-4a99-a6ad-570a6993e61e.svg)
 ![react](https://user-images.githubusercontent.com/73071973/166676074-7d85cc43-0eff-4cd7-a07d-848d8520aa8f.svg)
 
 <h3>📆 And finally these are the technologies and tools I'm eager to learn:</h3>
@@ -37,7 +37,8 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=lucasmdpereira&show_icons=true&theme=github_dark" />
 
 <!--
+![python](https://user-images.githubusercontent.com/73071973/173397419-2d32d5e6-6fbc-4102-907d-2adacb32aac6.svg)
 ![vue](https://user-images.githubusercontent.com/73071973/165584003-4f760434-0503-450a-9377-4b784d5770b1.svg)
 ![next](https://user-images.githubusercontent.com/73071973/165584151-b24ef4cf-d4d8-4717-beff-5c5ee1728af8.svg)
-![c#](https://user-images.githubusercontent.com/73071973/166676717-e4302b07-6a39-4a99-a6ad-570a6993e61e.svg)
+
 -->
