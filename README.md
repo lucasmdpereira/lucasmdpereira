@@ -25,6 +25,7 @@
 <h3>📈 The following are the technologies and tools I'm currently studying :</h3>
 
 ![python](https://user-images.githubusercontent.com/73071973/173397419-2d32d5e6-6fbc-4102-907d-2adacb32aac6.svg)
+![django](https://user-images.githubusercontent.com/73071973/198853426-66738214-da8a-4ab4-b48f-ed89ff550f43.svg)
 ![react](https://user-images.githubusercontent.com/73071973/166676074-7d85cc43-0eff-4cd7-a07d-848d8520aa8f.svg)
 
 <h3>📆 And finally these are the technologies and tools I'm eager to learn:</h3>
