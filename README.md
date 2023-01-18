@@ -20,7 +20,7 @@
 ![azure](https://user-images.githubusercontent.com/73071973/186781856-e80e1a6e-5fc7-47d3-a7a0-c2b735ae55c7.svg)
 ![figma](https://user-images.githubusercontent.com/73071973/165582320-043a9c0e-7a85-4845-ae62-c7075de6dbd2.svg)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmdpereira&layout=compact&theme=github_dark" />
+
 
 <h3>📈 The following are the technologies and tools I'm currently studying :</h3>
 
@@ -35,9 +35,11 @@
 ![mongo](https://user-images.githubusercontent.com/73071973/165584139-7431a3e5-2b58-4656-ae6a-61603f730004.svg)
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=lucasmdpereira&show_icons=true&theme=github_dark" />
+
 
 <!--
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmdpereira&layout=compact&theme=github_dark" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=lucasmdpereira&show_icons=true&theme=github_dark" />
 ![c#](https://user-images.githubusercontent.com/73071973/166676717-e4302b07-6a39-4a99-a6ad-570a6993e61e.svg)
 ![vue](https://user-images.githubusercontent.com/73071973/165584003-4f760434-0503-450a-9377-4b784d5770b1.svg)
 ![next](https://user-images.githubusercontent.com/73071973/165584151-b24ef4cf-d4d8-4717-beff-5c5ee1728af8.svg)
