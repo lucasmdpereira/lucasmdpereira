@@ -39,7 +39,7 @@
 ![next](https://user-images.githubusercontent.com/73071973/165584151-b24ef4cf-d4d8-4717-beff-5c5ee1728af8.svg)
 ![rust](https://user-images.githubusercontent.com/73071973/213168825-a09f94b4-6d14-4acd-a5a0-1a0f8aebb094.svg)
 
-<h3>💀 And finally These are the technologies and tools I'm currently using, but hate with all my soul: </h3>
+<h3>💀 And finally, these are the technologies and tools I'm currently using, but hate with all my soul: </h3>
 
 ![java](https://user-images.githubusercontent.com/73071973/213709075-343fb5f8-2454-4cb2-8103-a87db32f69ff.svg)
 ![spring](https://user-images.githubusercontent.com/73071973/213168311-12e8dc8f-7651-43b7-b5d8-b6845f8383fc.svg)
