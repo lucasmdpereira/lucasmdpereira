@@ -11,7 +11,6 @@
 ![typescript](https://user-images.githubusercontent.com/73071973/166676102-482b185f-ae9f-4235-88b9-34cbdf4c19d4.svg)
 ![node](https://user-images.githubusercontent.com/73071973/165581845-247a28a2-4e64-470f-8835-c1d3d39a0a1c.svg)
 ![react](https://user-images.githubusercontent.com/73071973/166676074-7d85cc43-0eff-4cd7-a07d-848d8520aa8f.svg)
-![spring](https://user-images.githubusercontent.com/73071973/213168311-12e8dc8f-7651-43b7-b5d8-b6845f8383fc.svg)
 ![discord](https://user-images.githubusercontent.com/73071973/186781666-9ce21923-3c41-4794-aea1-7a0680152774.svg)
 ![sqlite](https://user-images.githubusercontent.com/73071973/165581899-0b06c1f5-0ca5-4055-8438-d2b56c60609e.svg)
 ![postgress](https://user-images.githubusercontent.com/73071973/166676121-3204c350-620e-4c6c-969a-93e2d87f1a38.svg)
@@ -34,14 +33,16 @@
 
 
 
-<h3>📆 And finally these are the technologies and tools I'm eager to learn:</h3>
+<h3>📆 These are the technologies and tools I'm eager to learn:</h3>
 
 ![angular](https://user-images.githubusercontent.com/73071973/173397815-46f06f4f-7631-4496-a717-3c7dea7ad8fd.svg)
 ![next](https://user-images.githubusercontent.com/73071973/165584151-b24ef4cf-d4d8-4717-beff-5c5ee1728af8.svg)
 ![rust](https://user-images.githubusercontent.com/73071973/213168825-a09f94b4-6d14-4acd-a5a0-1a0f8aebb094.svg)
 
+<h3>💀 And finally These are the technologies and tools I'm currently using, but hate with all my soul: </h3>
 
-
+![java](https://user-images.githubusercontent.com/73071973/213709075-343fb5f8-2454-4cb2-8103-a87db32f69ff.svg)
+![spring](https://user-images.githubusercontent.com/73071973/213168311-12e8dc8f-7651-43b7-b5d8-b6845f8383fc.svg)
 
 
 <!--
