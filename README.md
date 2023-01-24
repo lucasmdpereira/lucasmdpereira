@@ -23,23 +23,18 @@
 ![azure](https://user-images.githubusercontent.com/73071973/186781856-e80e1a6e-5fc7-47d3-a7a0-c2b735ae55c7.svg)
 ![figma](https://user-images.githubusercontent.com/73071973/165582320-043a9c0e-7a85-4845-ae62-c7075de6dbd2.svg)
 
-
-
-
 <h3>📈 The following are the technologies and tools I'm currently studying :</h3>
+
+![c](https://user-images.githubusercontent.com/73071973/214185111-78f1094d-f01e-4f2f-a8ec-23154f2303f1.svg)
+![cpp](https://user-images.githubusercontent.com/73071973/214185548-6971c5ba-4f01-4188-9877-6233abf8296b.svg)
+![python](https://user-images.githubusercontent.com/73071973/173397419-2d32d5e6-6fbc-4102-907d-2adacb32aac6.svg)
+
+<h3>📆 These are the technologies and tools I'm eager to learn:</h3>
 
 ![go](https://user-images.githubusercontent.com/73071973/173397484-2771fcc6-50da-482a-8817-dc644f32fae5.svg)
 ![mongo](https://user-images.githubusercontent.com/73071973/165584139-7431a3e5-2b58-4656-ae6a-61603f730004.svg)
 
-
-
-<h3>📆 These are the technologies and tools I'm eager to learn:</h3>
-
-![angular](https://user-images.githubusercontent.com/73071973/173397815-46f06f4f-7631-4496-a717-3c7dea7ad8fd.svg)
-![next](https://user-images.githubusercontent.com/73071973/165584151-b24ef4cf-d4d8-4717-beff-5c5ee1728af8.svg)
-![rust](https://user-images.githubusercontent.com/73071973/213168825-a09f94b4-6d14-4acd-a5a0-1a0f8aebb094.svg)
-
-<h3>💀 And finally, these are the technologies and tools I'm currently using, but hate with all my soul: </h3>
+<h3>💀 And finally, these are the technologies and tools I'm currently using, but I don't like: </h3>
 
 ![java](https://user-images.githubusercontent.com/73071973/213709075-343fb5f8-2454-4cb2-8103-a87db32f69ff.svg)
 ![spring](https://user-images.githubusercontent.com/73071973/213168311-12e8dc8f-7651-43b7-b5d8-b6845f8383fc.svg)
@@ -50,5 +45,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=lucasmdpereira&show_icons=true&theme=github_dark" />
 ![c#](https://user-images.githubusercontent.com/73071973/166676717-e4302b07-6a39-4a99-a6ad-570a6993e61e.svg)
 ![vue](https://user-images.githubusercontent.com/73071973/165584003-4f760434-0503-450a-9377-4b784d5770b1.svg)
-
+![angular](https://user-images.githubusercontent.com/73071973/173397815-46f06f4f-7631-4496-a717-3c7dea7ad8fd.svg)
+![next](https://user-images.githubusercontent.com/73071973/165584151-b24ef4cf-d4d8-4717-beff-5c5ee1728af8.svg)
+![rust](https://user-images.githubusercontent.com/73071973/213168825-a09f94b4-6d14-4acd-a5a0-1a0f8aebb094.svg)
 -->
