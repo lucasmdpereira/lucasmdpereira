@@ -34,7 +34,7 @@
 ![go](https://user-images.githubusercontent.com/73071973/173397484-2771fcc6-50da-482a-8817-dc644f32fae5.svg)
 ![mongo](https://user-images.githubusercontent.com/73071973/165584139-7431a3e5-2b58-4656-ae6a-61603f730004.svg)
 
-<h3>💀 And finally, these are the technologies and tools I'm currently using, but I don't like so much: </h3>
+<h3>💀 And finally, these are the technologies and tools I'm currently using, but I don't like that much: </h3>
 
 ![java](https://user-images.githubusercontent.com/73071973/213709075-343fb5f8-2454-4cb2-8103-a87db32f69ff.svg)
 ![spring](https://user-images.githubusercontent.com/73071973/213168311-12e8dc8f-7651-43b7-b5d8-b6845f8383fc.svg)
