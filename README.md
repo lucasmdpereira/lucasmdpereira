@@ -1,51 +1,40 @@
 <h3> 👋 Hi there!</h3>
 
-<p>I'm a M.Sc. in electrical engineering 💡 switching career from hardware ⚙️ to software development 👨‍💻.<p>
+<p>"I'm an M.Sc. in Electrical Engineering 💡 working in back-end development 👨‍💻 using Django 🐍."<p>
 <p>Protagonist personality type (ENFJ-A).<p>
   
-<h3>🔥 These are the technologies and tools that I'm currently using:</h3>
+<h3>🔥 These are the technologies and tools that I use every day:</h3>
 
-![python](https://user-images.githubusercontent.com/73071973/173397419-2d32d5e6-6fbc-4102-907d-2adacb32aac6.svg)
-![django4](https://user-images.githubusercontent.com/73071973/198853552-06cd4d07-64ad-4735-a51b-bcd7ccb24ac1.svg)
-![js](https://user-images.githubusercontent.com/73071973/165581426-90f1daff-9992-4788-84ac-88030ad32026.svg)
-![typescript](https://user-images.githubusercontent.com/73071973/166676102-482b185f-ae9f-4235-88b9-34cbdf4c19d4.svg)
-![node](https://user-images.githubusercontent.com/73071973/165581845-247a28a2-4e64-470f-8835-c1d3d39a0a1c.svg)
-![react](https://user-images.githubusercontent.com/73071973/166676074-7d85cc43-0eff-4cd7-a07d-848d8520aa8f.svg)
-![discord](https://user-images.githubusercontent.com/73071973/186781666-9ce21923-3c41-4794-aea1-7a0680152774.svg)
-![sqlite](https://user-images.githubusercontent.com/73071973/165581899-0b06c1f5-0ca5-4055-8438-d2b56c60609e.svg)
-![postgress](https://user-images.githubusercontent.com/73071973/166676121-3204c350-620e-4c6c-969a-93e2d87f1a38.svg)
-![sql](https://user-images.githubusercontent.com/73071973/186782453-6123cc55-03fc-45ca-8d7e-2dc7025572ff.svg)
-![html](https://user-images.githubusercontent.com/73071973/165581793-6ba9eab5-c13a-4c3b-9502-a1cecf0698fe.svg)
-![css](https://user-images.githubusercontent.com/73071973/165581723-27ba322d-d8d5-43d2-9f57-7bff5b5c085a.svg)
-![bootstrap](https://user-images.githubusercontent.com/73071973/165582005-3ac189b8-d31d-4f0a-b36b-0d263af68f34.svg)
-![linux](https://user-images.githubusercontent.com/73071973/165581960-d4f66d19-edbc-48e1-bc7d-5b33ea371a89.svg)
-![aws](https://user-images.githubusercontent.com/73071973/186782002-75d2e861-64f9-4dbf-9d93-bd8c42e035ac.svg)
-![azure](https://user-images.githubusercontent.com/73071973/186781856-e80e1a6e-5fc7-47d3-a7a0-c2b735ae55c7.svg)
-![figma](https://user-images.githubusercontent.com/73071973/165582320-043a9c0e-7a85-4845-ae62-c7075de6dbd2.svg)
+<img src="https://github.com/lucasmdpereira/lucasmdpereira/assets/73071973/61ff6739-d109-4795-a38f-342eb0eedbd8" alt= "django" width="36px" height="36px">
+&nbsp;&nbsp;<img src="https://github.com/lucasmdpereira/lucasmdpereira/assets/73071973/4e356775-cb10-4ab0-b132-a3919576dc6b" alt= "google cloud plataform" width="36px" height="36px">
+&nbsp;&nbsp;<img src="https://github.com/lucasmdpereira/lucasmdpereira/assets/73071973/00c8a0d1-8770-48b6-95f3-51b264dad345" alt= "github" width="36px" height="36px">
+&nbsp;&nbsp;<img src="https://github.com/lucasmdpereira/lucasmdpereira/assets/73071973/89c89936-5041-47fc-a9f7-fb3f04bf14e2" alt= "linux" width="36px" height="36px">
+&nbsp;&nbsp;<img src="https://github.com/lucasmdpereira/lucasmdpereira/assets/73071973/74959941-b777-4693-9a73-be02f995651f" alt= "postgresql" width="36px" height="36px">
+&nbsp;&nbsp;<img src="https://github.com/lucasmdpereira/lucasmdpereira/assets/73071973/be4a82f6-f12f-4bf4-8924-b79d491c18a1" alt= "postman" width="36px" height="36px">
+&nbsp;&nbsp;<img src="https://github.com/lucasmdpereira/lucasmdpereira/assets/73071973/56514632-b3ac-4c85-b327-593222dab443" alt= "python" width="36px" height="36px">
 
-<h3>📈 The following are the technologies and tools I'm currently studying :</h3>
+<h3>🧩 The following are the technologies that I have worked on projects with:</h3>
 
-![c](https://user-images.githubusercontent.com/73071973/214185111-78f1094d-f01e-4f2f-a8ec-23154f2303f1.svg)
-![cpp](https://user-images.githubusercontent.com/73071973/214185548-6971c5ba-4f01-4188-9877-6233abf8296b.svg)
-![python](https://user-images.githubusercontent.com/73071973/173397419-2d32d5e6-6fbc-4102-907d-2adacb32aac6.svg)
+<img src="https://github.com/lucasmdpereira/lucasmdpereira/assets/73071973/ce49c437-4df7-4dd8-be3d-9469c6fc5718" alt= "amazon web services" width="36px" height="36px">
+&nbsp;&nbsp;<img src="https://github.com/lucasmdpereira/lucasmdpereira/assets/73071973/8700c9e7-3af2-4f7f-b6d5-cc5292ab52c7" alt= "azure cloud" width="36px" height="36px">
+&nbsp;&nbsp;<img src="https://github.com/lucasmdpereira/lucasmdpereira/assets/73071973/f7b2a2ce-7baf-4d63-82bb-7e4dda3145e1" alt= "bootstrap" width="36px" height="36px">
+&nbsp;&nbsp;<img src="https://github.com/lucasmdpereira/lucasmdpereira/assets/73071973/34f4deb2-1e5b-450e-921f-9f0a0451a082" alt= "css" width="36px" height="36px">
+&nbsp;&nbsp;<img src="https://github.com/lucasmdpereira/lucasmdpereira/assets/73071973/35f02d97-a487-4488-b374-3a8e0fdb2e4c" alt= "discord js" width="36px" height="36px">
+&nbsp;&nbsp;<img src="https://github.com/lucasmdpereira/lucasmdpereira/assets/73071973/7c362718-a127-40b8-94be-89f0868d177b" alt= "figma" width="36px" height="36px">
+&nbsp;&nbsp;<img src="https://github.com/lucasmdpereira/lucasmdpereira/assets/73071973/23bd6dd4-a2a9-45d4-a7d1-4e0cf3617a54" alt= "html" width="36px" height="36px">
+&nbsp;&nbsp;<img src="https://github.com/lucasmdpereira/lucasmdpereira/assets/73071973/2586de15-92d7-40be-8ff5-7fcc0d60d56b" alt= "java" width="36px" height="36px">
+&nbsp;&nbsp;<img src="https://github.com/lucasmdpereira/lucasmdpereira/assets/73071973/f84fb940-442b-475f-a012-e6cb9f5fd4dd" alt= "javascript" width="36px" height="36px">
+&nbsp;&nbsp;<img src="https://github.com/lucasmdpereira/lucasmdpereira/assets/73071973/cc0feb05-f576-4335-a68f-b9c3c76261ec" alt= "mysql" width="36px" height="36px">
+&nbsp;&nbsp;<img src="https://github.com/lucasmdpereira/lucasmdpereira/assets/73071973/e6a93486-badb-4af2-a01d-40d56de38084" alt= "node js" width="36px" height="36px">
+&nbsp;&nbsp;<img src="https://github.com/lucasmdpereira/lucasmdpereira/assets/73071973/33c0230b-49ff-4fc2-ae52-7fa06808e0b3" alt= "react" width="36px" height="36px">
+&nbsp;&nbsp;<img src="https://github.com/lucasmdpereira/lucasmdpereira/assets/73071973/15df8db9-8697-47d0-9661-46bd72f2dcaa" alt= "spring" width="36px" height="36px">
+&nbsp;&nbsp;<img src="https://github.com/lucasmdpereira/lucasmdpereira/assets/73071973/b12ba504-5425-4a29-b3f9-cf780f57e1d9" alt= "sqlite" width="36px" height="36px">
+&nbsp;&nbsp;<img src="https://github.com/lucasmdpereira/lucasmdpereira/assets/73071973/ba20a11e-6344-4a27-8d99-976200bbdff0" alt= "typescript" width="36px" height="36px">
 
-<h3>📆 These are the technologies and tools I'm eager to learn:</h3>
+<h3>📈 And finally, these are the technologies and tools I'm eager to learn:</h3>
 
-![go](https://user-images.githubusercontent.com/73071973/173397484-2771fcc6-50da-482a-8817-dc644f32fae5.svg)
-![mongo](https://user-images.githubusercontent.com/73071973/165584139-7431a3e5-2b58-4656-ae6a-61603f730004.svg)
+<img src="https://github.com/lucasmdpereira/lucasmdpereira/assets/73071973/decad6c3-9156-4415-848e-c486f1345eeb" alt= "angular" width="36px" height="36px">
+&nbsp;&nbsp;<img src="https://github.com/lucasmdpereira/lucasmdpereira/assets/73071973/3c1a2821-db34-45ea-95b7-2d3fa187db4c" alt= "go" width="36px" height="36px">
+&nbsp;&nbsp;<img src="https://github.com/lucasmdpereira/lucasmdpereira/assets/73071973/a3e7fc8b-c0fd-475a-8bf2-f317f3eaf52f" alt= "mongo db" width="36px" height="36px">
+&nbsp;&nbsp;<img src="https://github.com/lucasmdpereira/lucasmdpereira/assets/73071973/11b0d6b9-69dd-4930-87a5-d8ba0f131a18" alt= "rust" width="36px" height="36px">
 
-<h3>💀 And finally, these are the technologies and tools I'm currently using, but I don't like that much: </h3>
-
-![java](https://user-images.githubusercontent.com/73071973/213709075-343fb5f8-2454-4cb2-8103-a87db32f69ff.svg)
-![spring](https://user-images.githubusercontent.com/73071973/213168311-12e8dc8f-7651-43b7-b5d8-b6845f8383fc.svg)
-
-
-<!--
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmdpereira&layout=compact&theme=github_dark" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=lucasmdpereira&show_icons=true&theme=github_dark" />
-![c#](https://user-images.githubusercontent.com/73071973/166676717-e4302b07-6a39-4a99-a6ad-570a6993e61e.svg)
-![vue](https://user-images.githubusercontent.com/73071973/165584003-4f760434-0503-450a-9377-4b784d5770b1.svg)
-![angular](https://user-images.githubusercontent.com/73071973/173397815-46f06f4f-7631-4496-a717-3c7dea7ad8fd.svg)
-![next](https://user-images.githubusercontent.com/73071973/165584151-b24ef4cf-d4d8-4717-beff-5c5ee1728af8.svg)
-![rust](https://user-images.githubusercontent.com/73071973/213168825-a09f94b4-6d14-4acd-a5a0-1a0f8aebb094.svg)
--->
