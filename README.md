@@ -1,6 +1,6 @@
 <h3> 👋 Hi there!</h3>
 
-<p>"I'm an M.Sc. in Electrical Engineering 💡 working in back-end development 👨‍💻 using Django 🐍."<p>
+<p>I'm an M.Sc. in Electrical Engineering 💡 working in back-end development 👨‍💻 using Django 🐍.<p>
 <p>Protagonist personality type (ENFJ-A).<p>
   
 <h3>🔥 These are the technologies and tools that I use every day:</h3>
