@@ -17,6 +17,7 @@
 <img src="https://github.com/lucasmdpereira/lucasmdpereira/assets/73071973/5c6184b4-2bf3-4560-bc45-f0e29ba02ae7" alt= "html" width="36px" height="36px">&nbsp;&nbsp;
 <img src="https://github.com/lucasmdpereira/lucasmdpereira/assets/73071973/3e533cd9-c123-4bb9-8fef-768a9cc48dfc" alt= "css" width="36px" height="36px">&nbsp;&nbsp;
 <img src="https://github.com/lucasmdpereira/lucasmdpereira/assets/73071973/4ec3133f-f430-4a05-b7bf-e39f62032156" alt= "bootstrap" width="36px" height="36px">&nbsp;&nbsp;
+<img src="https://github.com/lucasmdpereira/lucasmdpereira/assets/73071973/51346770-7379-4b06-94b5-924549e615a3" alt= "figma" width="36px" height="36px">&nbsp;&nbsp;
 
 <h3>🧩 The following are the technologies that I have worked on projects with:</h3>
 
@@ -24,7 +25,6 @@
 <img src="https://github.com/lucasmdpereira/lucasmdpereira/assets/73071973/4e356775-cb10-4ab0-b132-a3919576dc6b" alt= "google cloud plataform" width="36px" height="36px">&nbsp;&nbsp;
 <img src="https://github.com/lucasmdpereira/lucasmdpereira/assets/73071973/7bb14e93-4275-4137-8627-b0314caa84c9" alt= "azure cloud" width="36px" height="36px">&nbsp;&nbsp;
 <img src="https://github.com/lucasmdpereira/lucasmdpereira/assets/73071973/75657d2e-b664-47a1-bec1-0ba1c9432a3d" alt= "discord js" width="36px" height="36px">&nbsp;&nbsp;
-<img src="https://github.com/lucasmdpereira/lucasmdpereira/assets/73071973/51346770-7379-4b06-94b5-924549e615a3" alt= "figma" width="36px" height="36px">&nbsp;&nbsp;
 <img src="https://github.com/lucasmdpereira/lucasmdpereira/assets/73071973/64cdd966-04ca-411f-96c4-cf92c0c65e24" alt= "java" width="36px" height="36px">&nbsp;&nbsp;
 <img src="https://github.com/lucasmdpereira/lucasmdpereira/assets/73071973/08e5dfe2-60f6-4a71-a3ce-ca62ad0779f8" alt= "node js" width="36px" height="36px">&nbsp;&nbsp;
 <img src="https://github.com/lucasmdpereira/lucasmdpereira/assets/73071973/17f76477-f7f5-4f8c-ade4-89b93618f78c" alt= "react" width="36px" height="36px">&nbsp;&nbsp;
