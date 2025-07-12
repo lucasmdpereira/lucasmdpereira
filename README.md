@@ -1,8 +1,7 @@
 <h3> 👋 Hi there!</h3>
 
-<p>I'm an M.Sc. in Electrical Engineering 💡 working in full-stack development 👨‍💻 using Django 🐍 and Vue 🟨.<p>
-<p>Protagonist personality type (ENFJ-A).<p>
-  
+<p>I'm an M.Sc. in Electrical Engineering 💡, working in full-stack development 👨‍💻 using Django 🐍 and Vue 🟨.<p>
+
 <h3>🔥 These are the technologies and tools that I use every day:</h3>
 
 <img src="https://github.com/lucasmdpereira/lucasmdpereira/assets/73071973/61ff6739-d109-4795-a38f-342eb0eedbd8" alt= "django" width="36px" height="36px">&nbsp;&nbsp;
